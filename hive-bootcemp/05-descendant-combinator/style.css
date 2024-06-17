@@ -1,0 +1,13 @@
+.container1 {
+    background-color: rgb(243, 232, 25);
+    text-align: center;
+    color:coral;
+}
+.container2 {
+    /* background-color: rgb(243, 232, 25); */
+    text-align: center;
+    color: coral;
+}
+.container2>p {
+    background-color: rgb(243, 232, 25);
+}

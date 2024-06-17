@@ -1,0 +1,11 @@
+p {
+    background-color: chocolate;
+}
+div {
+    color: blue;
+}
+.two {
+    background-color: greenyellow;
+    color: black;
+    font-weight: bold;
+}
